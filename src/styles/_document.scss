@@ -1,0 +1,29 @@
+html {
+  background-color: var(--color-black);
+  color: var(--color-white);
+}
+
+// html,
+// body {
+//   @include hide-scroll-bars;
+
+//   &::-webkit-scrollbar {
+//     appearance: none;
+//     width: 0;
+//     height: 0;
+//   }
+// }
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+input,
+textarea,
+button,
+select {
+  font-family: $font-family;
+}
