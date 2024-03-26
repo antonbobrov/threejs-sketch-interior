@@ -46,8 +46,6 @@ const create = (images: HTMLImageElement[]) => {
     },
     items,
   });
-
-  manager.container.addEventListener('click', () => instance?.destroy());
 };
 
 function load() {
