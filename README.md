@@ -1,6 +1,6 @@
 # Three.js Sketch Interior Image
 
-## Demo: https://antonbobrov.github.io/threjs-sketch-interior/
+## Demo: https://antonbobrov.github.io/threejs-sketch-interior/
 
 ## Dev config
 node v20.2.0 \
